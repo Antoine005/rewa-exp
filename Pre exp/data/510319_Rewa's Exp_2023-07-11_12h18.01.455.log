@@ -1,0 +1,155 @@
+8.4581 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000220FC4CEFD0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000220FC4CEF70>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000220FC4CEC70>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000022082CC8C70>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.4583 	EXP 	window1: mouseVisible = True
+8.4584 	EXP 	window1: backgroundImage = ''
+8.4584 	EXP 	window1: backgroundFit = 'none'
+8.4586 	EXP 	window1: mouseVisible = False
+8.4586 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.4587 	EXP 	window1: recordFrameIntervals = False
+8.6236 	EXP 	window1: recordFrameIntervals = True
+8.8073 	EXP 	Screen (0) actual frame rate measured at 60.04Hz
+8.8074 	EXP 	window1: recordFrameIntervals = False
+11.0539 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Any text\n\nincluding line breaks', units='height', win=Window(...), wrapWidth=1)
+11.0590 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+11.0600 	EXP 	Created text_countdown = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_countdown', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.0627 	EXP 	Created polygon = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('left', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([0.00392157, 0.00392157, 0.00392157]), fillColorSpace='rgb', fillRGB=array([0.00392157, 0.00392157, 0.00392157]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=45.0, pos=array([0.1275, 0.1275]), size=array([0.255, 0.255]), units='height', vertices=ndarray(...), win=Window(...))
+11.1039 	EXP 	Created circle = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, fillColor=array([-1, -1, -1]), fillColorSpace='rgb', fillRGB=array([-1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=10.0, name='circle', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+11.1066 	EXP 	Created red_dots = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=60, name='red_dots', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1080 	EXP 	Created green_dots = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([-1.        ,  0.00392157, -1.        ]), colorSpace='rgb', contrast=1.0, depth=-6.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=53, name='green_dots', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1108 	EXP 	Created Right = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-8.0, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([ 1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([ 1., -1., -1.]), lineWidth=1.0, name='Right', opacity=1.0, ori=0.0, pos=array([550.,   0.]), size=array([150., 150.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.1135 	EXP 	Created Left = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-9.0, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1.    ,  0.0039, -1.    ]), lineColorSpace='rgb', lineRGB=array([-1.    ,  0.0039, -1.    ]), lineWidth=1.0, name='Left', opacity=1.0, ori=0.0, pos=array([-550.,    0.]), size=array([150., 150.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.1145 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.1171 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+11.1189 	EXP 	Created polygon_2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('left', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([0.00392157, 0.00392157, 0.00392157]), fillColorSpace='rgb', fillRGB=array([0.00392157, 0.00392157, 0.00392157]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_2', opacity=1.0, ori=45.0, pos=array([0.1275, 0.1275]), size=array([0.255, 0.255]), units='height', vertices=ndarray(...), win=Window(...))
+11.1298 	EXP 	Created circle_2 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([-1, -1, -1]), fillColorSpace='rgb', fillRGB=array([-1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=10.0, name='circle_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+11.1312 	EXP 	Created red_dots_2 = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=43, name='red_dots_2', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1327 	EXP 	Created green_dots_2 = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=57, name='green_dots_2', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1349 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fix', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+11.1366 	EXP 	Created polygon_3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('left', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([0.00392157, 0.00392157, 0.00392157]), fillColorSpace='rgb', fillRGB=array([0.00392157, 0.00392157, 0.00392157]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon_3', opacity=1.0, ori=45.0, pos=array([0.1275, 0.1275]), size=array([0.255, 0.255]), units='height', vertices=ndarray(...), win=Window(...))
+11.1477 	EXP 	Created circle_3 = Polygon(__class__=<class 'psychopy.visual.polygon.Polygon'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, fillColor=array([-1, -1, -1]), fillColorSpace='rgb', fillRGB=array([-1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=10.0, name='circle_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...))
+11.1495 	EXP 	Created red_dots_3 = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=43, name='red_dots_3', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1509 	EXP 	Created green_dots_3 = DotStim(__class__=<class 'psychopy.visual.dot.DotStim'>, autoLog=True, coherence=0.0, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, dir=0.0, dotLife=-1.0, dotSize=15.0, element=None, fieldAnchor=UNKNOWN, fieldPos=array([0., 0.]), fieldShape='circle', fieldSize=array([0.5, 0.5]), nDots=57, name='green_dots_3', noiseDots='walk', opacity=1.0, rgb=UNKNOWN, signalDots='same', speed=0.0, units='height', win=Window(...))
+11.1552 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='0', units='height', win=Window(...), wrapWidth=1)
+11.1617 	EXP 	movie: autoLog = True
+11.1617 	EXP 	movie_2: autoLog = True
+11.1617 	EXP 	movie_3: autoLog = True
+11.1617 	EXP 	text: autoDraw = True
+12.1581 	EXP 	Created sequence: random, trialTypes=1, nReps=18, seed=None
+12.1585 	EXP 	New trial (rep=0, index=0): None
+12.1705 	EXP 	Imported Rewa_Sequence.xlsx as conditions, 6 conditions, 3 params
+12.1712 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+12.1717 	EXP 	New trial (rep=0, index=0): {'Countdown': 'Countdown_2s.mp4', 'color1': 'red', 'color2': 'green'}
+12.1769 	EXP 	text: autoDraw = False
+12.1769 	EXP 	fix: autoDraw = True
+12.8323 	EXP 	fix: autoDraw = False
+12.8323 	EXP 	text_countdown: autoDraw = True
+12.8323 	EXP 	polygon: autoDraw = True
+12.8323 	EXP 	movie: autoDraw = True
+12.8323 	EXP 	circle: autoDraw = True
+12.8323 	EXP 	red_dots: autoDraw = True
+12.8323 	EXP 	green_dots: autoDraw = True
+12.8323 	EXP 	Right: autoDraw = True
+12.8323 	EXP 	Left: autoDraw = True
+13.5175 	DATA 	Keypress: right
+13.7144 	EXP 	text_countdown: autoDraw = False
+13.7144 	EXP 	polygon: autoDraw = False
+13.7144 	EXP 	movie: autoDraw = False
+13.7144 	EXP 	circle: autoDraw = False
+13.7144 	EXP 	red_dots: autoDraw = False
+13.7144 	EXP 	green_dots: autoDraw = False
+13.7144 	EXP 	Right: autoDraw = False
+13.7144 	EXP 	Left: autoDraw = False
+13.7144 	EXP 	text_3: height = 0.05
+13.7144 	EXP 	text_3: height = 0.05
+13.7144 	EXP 	text_3: height = 0.05
+13.7144 	EXP 	text_3: text = '-3'
+13.7144 	EXP 	text_3: autoDraw = True
+14.7070 	EXP 	New trial (rep=0, index=1): {'Countdown': 'Countdown_1.5s.mp4', 'color1': 'green', 'color2': 'red'}
+14.7234 	EXP 	text_3: autoDraw = False
+14.7234 	EXP 	fix: autoDraw = True
+16.0244 	EXP 	fix: autoDraw = False
+16.0244 	EXP 	text_countdown: autoDraw = True
+16.0244 	EXP 	polygon: autoDraw = True
+16.0244 	EXP 	movie: autoDraw = True
+16.0244 	EXP 	circle: autoDraw = True
+16.0244 	EXP 	red_dots: autoDraw = True
+16.0244 	EXP 	green_dots: autoDraw = True
+16.0244 	EXP 	Right: autoDraw = True
+16.0244 	EXP 	Left: autoDraw = True
+16.9529 	DATA 	Keypress: left
+16.9555 	EXP 	text_countdown: autoDraw = False
+16.9555 	EXP 	polygon: autoDraw = False
+16.9555 	EXP 	movie: autoDraw = False
+16.9555 	EXP 	circle: autoDraw = False
+16.9555 	EXP 	red_dots: autoDraw = False
+16.9555 	EXP 	green_dots: autoDraw = False
+16.9555 	EXP 	Right: autoDraw = False
+16.9555 	EXP 	Left: autoDraw = False
+16.9555 	EXP 	text_3: text = '-3'
+16.9555 	EXP 	text_3: autoDraw = True
+17.9407 	EXP 	New trial (rep=0, index=2): {'Countdown': 'Countdown_2.5s.mp4', 'color1': 'green', 'color2': 'red'}
+17.9565 	EXP 	text_3: autoDraw = False
+17.9565 	EXP 	text_3: autoDraw = False
+17.9565 	EXP 	fix: autoDraw = True
+19.2022 	EXP 	fix: autoDraw = False
+19.2022 	EXP 	fix: autoDraw = False
+19.2022 	EXP 	text_countdown: autoDraw = True
+19.2022 	EXP 	polygon: autoDraw = True
+19.2022 	EXP 	movie: autoDraw = True
+19.2022 	EXP 	circle: autoDraw = True
+19.2022 	EXP 	red_dots: autoDraw = True
+19.2022 	EXP 	green_dots: autoDraw = True
+19.2022 	EXP 	Right: autoDraw = True
+19.2022 	EXP 	Left: autoDraw = True
+20.0499 	DATA 	Keypress: right
+20.0525 	EXP 	text_countdown: autoDraw = False
+20.0525 	EXP 	polygon: autoDraw = False
+20.0525 	EXP 	movie: autoDraw = False
+20.0525 	EXP 	circle: autoDraw = False
+20.0525 	EXP 	red_dots: autoDraw = False
+20.0525 	EXP 	green_dots: autoDraw = False
+20.0525 	EXP 	Right: autoDraw = False
+20.0525 	EXP 	Left: autoDraw = False
+20.0525 	EXP 	text_3: text = '-3'
+20.0525 	EXP 	text_3: autoDraw = True
+21.0409 	EXP 	New trial (rep=0, index=3): {'Countdown': 'Countdown_2s.mp4', 'color1': 'green', 'color2': 'red'}
+21.0567 	EXP 	text_3: autoDraw = False
+21.0567 	EXP 	text_3: autoDraw = False
+21.0567 	EXP 	fix: autoDraw = True
+22.3424 	EXP 	fix: autoDraw = False
+22.3424 	EXP 	fix: autoDraw = False
+22.3424 	EXP 	text_countdown: autoDraw = True
+22.3424 	EXP 	polygon: autoDraw = True
+22.3424 	EXP 	movie: autoDraw = True
+22.3424 	EXP 	circle: autoDraw = True
+22.3424 	EXP 	red_dots: autoDraw = True
+22.3424 	EXP 	green_dots: autoDraw = True
+22.3424 	EXP 	Right: autoDraw = True
+22.3424 	EXP 	Left: autoDraw = True
+23.3455 	EXP 	polygon: autoDraw = False
+23.6713 	DATA 	Keypress: left
+23.6739 	EXP 	text_countdown: autoDraw = False
+23.6739 	EXP 	polygon: autoDraw = False
+23.6739 	EXP 	movie: autoDraw = False
+23.6739 	EXP 	circle: autoDraw = False
+23.6739 	EXP 	red_dots: autoDraw = False
+23.6739 	EXP 	green_dots: autoDraw = False
+23.6739 	EXP 	Right: autoDraw = False
+23.6739 	EXP 	Left: autoDraw = False
+23.6739 	EXP 	text_3: text = '-3'
+23.6739 	EXP 	text_3: autoDraw = True
+24.6574 	EXP 	New trial (rep=0, index=4): {'Countdown': 'Countdown_2.5s.mp4', 'color1': 'red', 'color2': 'green'}
+24.6734 	EXP 	text_3: autoDraw = False
+24.6734 	EXP 	text_3: autoDraw = False
+24.6734 	EXP 	fix: autoDraw = True
+25.8524 	EXP 	fix: autoDraw = False
+25.8524 	EXP 	fix: autoDraw = False
+25.8524 	EXP 	text_countdown: autoDraw = True
+25.8524 	EXP 	polygon: autoDraw = True
+25.8524 	EXP 	movie: autoDraw = True
+25.8524 	EXP 	circle: autoDraw = True
+25.8524 	EXP 	red_dots: autoDraw = True
+25.8524 	EXP 	green_dots: autoDraw = True
+25.8524 	EXP 	Right: autoDraw = True
+25.8524 	EXP 	Left: autoDraw = True
+26.2507 	DATA 	Keypress: escape
+27.0305 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,12 @@
+﻿n,key_resp.keys_raw,,,,,,,,,,,,,,,key_resp.rt_mean,key_resp.rt_raw,,,,,,,,,,,,,,,key_resp.rt_std,order,,,,,,,,,,,,,,
+1.0,'space', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--',5.0302653312683105,5.0302653312683105, , , , , , , , , , , , , , ,0.0,0.0, , , , , , , , , , , , , , 
+
+extraInfo
+participant,
+Task,1 without skip
+Dot Ratio,"60:40, 57:43"
+Deadline,"2.5s, 2.0s"
+date,2023-07-13_16h16.49.439
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.95009753875208

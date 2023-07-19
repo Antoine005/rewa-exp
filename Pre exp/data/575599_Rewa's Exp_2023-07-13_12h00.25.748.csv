@@ -1,0 +1,8 @@
+﻿Countdown,color1,color2,correct,screenshot,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials_6040.thisRepN,trials_6040.thisTrialN,trials_6040.thisN,trials_6040.thisIndex,trials_5743.thisRepN,trials_5743.thisTrialN,trials_5743.thisN,trials_5743.thisIndex,DotsshowRT,response.keys,response.corr,total_score,response.rt,Left_3.started,participant,session,date,expName,psychopyVersion,frameRate,
+Countdown_1.5s.mp4,green,red,left,Countdown_1.5s.jpg,0,0,0,0,0,0,0,3,,,,,2.301051199999989,None,0,-2,,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+Countdown_2.5s.mp4,green,red,left,Countdown_2.5s.jpg,0,0,0,0,0,1,1,4,,,,,1.7864280999999949,left,1,-1,1.0103958999999918,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+Countdown_1.5s.mp4,red,green,right,Countdown_1.5s.jpg,0,0,0,0,0,2,2,2,,,,,1.7678750999999977,left,0,-3,0.9666550000000029,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+Countdown_2.5s.mp4,red,green,right,Countdown_2.5s.jpg,0,0,0,0,0,3,3,0,,,,,1.7512522000000104,right,1,-2,0.9102629999999863,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+Countdown_2s.mp4,red,green,right,Countdown_2s.jpg,0,0,0,0,0,4,4,1,,,,,1.5337169999999958,left,0,-4,0.6781831000000125,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+Countdown_2s.mp4,green,red,left,Countdown_2s.jpg,0,0,0,0,0,5,5,5,,,,,2.784767400000021,None,0,-6,,,575599,001,2023-07-13_12h00.25.748,Rewa's Exp,2023.1.2,59.987966413932284,
+,,,,,,,,,,,,,,,,,,,,,,50.87332999999998,,,,,,,

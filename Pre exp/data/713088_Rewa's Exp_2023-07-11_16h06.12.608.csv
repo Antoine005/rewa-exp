@@ -1,0 +1,4 @@
+﻿Countdown,color1,color2,correct,screenshot,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials_6040.thisRepN,trials_6040.thisTrialN,trials_6040.thisN,trials_6040.thisIndex,DotsshowRT,response.keys,response.corr,response.rt,participant,session,date,expName,psychopyVersion,frameRate,
+Countdown_2.5s.mp4,red,green,right,Countdown_2.5s.jpg,0,0,0,0,0,0,0,0,1.5855707000009716,left,0,1.3927330998703837,713088,001,2023-07-11_16h06.12.608,Rewa's Exp,2023.1.2,59.92800252162211,
+Countdown_2s.mp4,green,red,left,Countdown_2s.jpg,0,0,0,0,0,1,1,5,2.101574999978766,left,1,1.2102143000811338,713088,001,2023-07-11_16h06.12.608,Rewa's Exp,2023.1.2,59.92800252162211,
+Countdown_1.5s.mp4,red,green,right,Countdown_1.5s.jpg,0,0,0,0,0,2,2,2,2.1178666001651436,left,0,1.218655299860984,713088,001,2023-07-11_16h06.12.608,Rewa's Exp,2023.1.2,59.92800252162211,

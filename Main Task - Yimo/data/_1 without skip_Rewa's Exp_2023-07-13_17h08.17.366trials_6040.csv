@@ -1,0 +1,15 @@
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip.keys_raw,response.corr_mean,response.corr_raw,response.corr_std,response.keys_raw,order
+2.5,Countdown_2.5s.mp4,red,green,right,Countdown_2.5s.jpg,1.0,,0.0,0.0,0.0,,0.0
+2,Countdown_2s.mp4,red,green,right,Countdown_2s.jpg,1.0,,0.0,0.0,0.0,,2.0
+2.5,Countdown_2.5s.mp4,green,red,left,Countdown_2.5s.jpg,1.0,,0.0,0.0,0.0,,3.0
+2,Countdown_2s.mp4,green,red,left,Countdown_2s.jpg,1.0,,0.0,0.0,0.0,,1.0
+
+extraInfo
+participant,
+Task,1 without skip
+Dot Ratio,"60:40, 57:43"
+Deadline,"2.5s, 2.0s"
+date,2023-07-13_17h08.17.366
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,60.01766920185575
