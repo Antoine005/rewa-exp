@@ -1,0 +1,15 @@
+﻿Countdown,color1,color2,correct,screenshot,n,key_skip_4.keys_raw,,key_skip_4.rt_mean,key_skip_4.rt_raw,,key_skip_4.rt_std,response_4.corr_mean,response_4.corr_raw,,response_4.corr_std,response_4.keys_raw,,response_4.rt_mean,response_4.rt_raw,,response_4.rt_std,order,
+Countdown_1.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_1.5s.jpg,2.0,, ,,, ,,0.0,0.0, 0.0,0.0,, ,,, ,,2.0, 5.0
+Countdown_1s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_1s.jpg,2.0,, ,,, ,,0.0,0.0, 0.0,0.0,, ,,, ,,1.0, 4.0
+Countdown_1.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_1.5s.jpg,2.0,, 'space',0.40311339497566223,, 0.40311339497566223,0.0,0.0,0.0, 0.0,0.0,, ,,, ,,3.0, 6.0
+Countdown_1s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_1s.jpg,2.0,'space', ,0.4765334129333496,0.4765334129333496, ,0.0,0.5,0.0, 1.0,0.7071067811865476,, 'left',0.6746366024017334,, 0.6746366024017334,0.0,0.0, 7.0
+
+extraInfo
+participant,Antoine8
+Task,2 - with skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"1.5s, 1.0s"
+date,2023-07-21_13h35.51.898
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.88959951001052

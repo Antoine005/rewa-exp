@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2023.1.2),
-    on July 19, 2023, at 18:02
+    on July 31, 2023, at 13:06
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -52,7 +52,7 @@ Videoshowstop = 0
 flag_6040 = False
 flag_5743 = False
 flag_5446 = False
-flag_5149 = False
+flag_5248 = False
 
 
 
@@ -66,7 +66,7 @@ expName = "Rewa's Exp"  # from the Builder filename that created this script
 expInfo = {
     'participant': '',
     'Task': ["1 - without skip", "2 - with skip"],
-    'Dot Ratio': ["60:40, 57:43", "57:43, 54:46", "54:46, 51:49"],
+    'Dot Ratio': ["60:40, 57:43", "57:43, 54:46", "54:46, 52:48"],
     'Deadline': ["2.5s, 2.0s", "2.0s, 1.5s", "1.5s, 1.0s"],
 }
 # --- Show participant info dialog --
@@ -150,9 +150,9 @@ if str(expInfo['Dot Ratio']) == '60:40, 57:43':
 elif  str(expInfo['Dot Ratio']) == '57:43, 54:46':
     flag_5743 = True
     flag_5446 = True
-elif  str(expInfo['Dot Ratio']) == '54:46, 51:49':
+elif  str(expInfo['Dot Ratio']) == '54:46, 52:48':
     flag_5446 = True
-    flag_5149 = True
+    flag_5248 = True
 key_resp_2 = keyboard.Keyboard()
 
 # --- Initialize components for Routine "Instructions_task2" ---
@@ -206,7 +206,7 @@ Left_2 = visual.ShapeStim(
     win=win, name='Left_2',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-4.0, interpolate=True)
 
 # --- Initialize components for Routine "Dots_Show_6040" ---
@@ -257,7 +257,7 @@ Left = visual.ShapeStim(
     win=win, name='Left',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-8.0, interpolate=True)
 key_skip = keyboard.Keyboard()
 
@@ -311,7 +311,7 @@ Left_6 = visual.ShapeStim(
     win=win, name='Left_6',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-4.0, interpolate=True)
 
 # --- Initialize components for Routine "Dots_Show_5743" ---
@@ -362,7 +362,7 @@ Left_3 = visual.ShapeStim(
     win=win, name='Left_3',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-8.0, interpolate=True)
 key_skip_2 = keyboard.Keyboard()
 
@@ -416,7 +416,7 @@ Left_7 = visual.ShapeStim(
     win=win, name='Left_7',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-4.0, interpolate=True)
 
 # --- Initialize components for Routine "Dot_Show_5446" ---
@@ -461,7 +461,7 @@ Left_4 = visual.ShapeStim(
     win=win, name='Left_4',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-7.0, interpolate=True)
 Right_4 = visual.ShapeStim(
     win=win, name='Right_4',units='pix', 
@@ -521,10 +521,10 @@ Left_8 = visual.ShapeStim(
     win=win, name='Left_8',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-4.0, interpolate=True)
 
-# --- Initialize components for Routine "Dots_Show_5149" ---
+# --- Initialize components for Routine "Dots_Show_5248" ---
 movie_4 = visual.MovieStim(
     win, name='movie_4',
     filename=None, movieLib='ffpyplayer',
@@ -539,17 +539,17 @@ circle_5 = visual.Polygon(
     ori=0.0, pos=(0, 0), anchor='center',
     lineWidth=10.0,     colorSpace='rgb',  lineColor='black', fillColor='black',
     opacity=None, depth=-2.0, interpolate=True)
-dots_49 = visual.DotStim(
-    win=win, name='dots_49',
-    nDots=49, dotSize=10.0,
+dots_48 = visual.DotStim(
+    win=win, name='dots_48',
+    nDots=48, dotSize=10.0,
     speed=0.0, dir=0.0, coherence=0.0,
     fieldPos=(0.0, 0.0), fieldSize=0.58, fieldAnchor='center', fieldShape='circle',
     signalDots='same', noiseDots='walk',dotLife=-1.0,
     color='white', colorSpace='rgb', opacity=None,
     depth=-3.0)
-dots_51 = visual.DotStim(
-    win=win, name='dots_51',
-    nDots=51, dotSize=10.0,
+dots_52 = visual.DotStim(
+    win=win, name='dots_52',
+    nDots=52, dotSize=10.0,
     speed=0.0, dir=0.0, coherence=0.0,
     fieldPos=(0.0, 0.0), fieldSize=0.58, fieldAnchor='center', fieldShape='circle',
     signalDots='same', noiseDots='walk',dotLife=-1.0,
@@ -560,7 +560,7 @@ Left_5 = visual.ShapeStim(
     win=win, name='Left_5',units='pix', 
     size=(150,150), vertices='circle',
     ori=0.0, pos=(-550, 0), anchor='center',
-    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 0.0039, -1.0000], fillColor=[-1.0000, 0.0039, -1.0000],
+    lineWidth=1.0,     colorSpace='rgb',  lineColor=[-1.0000, 1.0000, -1.0000], fillColor=[-1.0000, 1.0000, -1.0000],
     opacity=None, depth=-6.0, interpolate=True)
 Right_5 = visual.ShapeStim(
     win=win, name='Right_5',units='pix', 
@@ -997,7 +997,7 @@ for thisTrial in trials:
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code_10
-        if total_score > 149:
+        if total_score > 99:
             trials.finished = True
             break
             
@@ -1599,20 +1599,21 @@ for thisTrial in trials:
         if flag_6040 == True:
             if key_skip.keys=="space":
                 feedback_txt = 'Skipped 0'
+                feedback_col = [1,1,1]
                 current_score = 0
             elif response.keys is None or len(response.keys) < 1:
                 feedback_txt = 'Too late -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
             elif response.corr == 1:
                 feedback_txt = 'Correct +1'
-                feedback_col = [1.000,1.000,1.000]
+                feedback_col = [1,1,1]
                 total_score += 1
                 current_score = 1
             elif response.corr == 0:
                 feedback_txt = 'Incorrect -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
         movie.stop()
@@ -1641,6 +1642,7 @@ for thisTrial in trials:
         # --- Prepare to start Routine "feedback_1" ---
         continueRoutine = True
         # update component parameters for each repeat
+        text_3.setColor(feedback_col, colorSpace='rgb')
         text_3.setText(feedback_txt)
         # Run 'Begin Routine' code from code_4
         if flag_6040 == False:
@@ -1769,7 +1771,7 @@ for thisTrial in trials:
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code_11
-        if total_score > 149:
+        if total_score > 99:
             trials.finished = True
             break
         
@@ -2363,21 +2365,22 @@ for thisTrial in trials:
         if flag_5743 == True:
             if key_skip_2.keys=="space":
                 feedback_txt = 'Skipped 0'
+                feedback_col = [1,1,1]
                 current_score = 0
         
             elif response_2.keys is None or len(response_2.keys) < 1:
                 feedback_txt = 'Too late -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
             elif response_2.corr == 1:
                 feedback_txt = 'Correct +1'
-                feedback_col = [1.000,1.000,1.000]
+                feedback_col = [1,1,1]
                 total_score += 1
                 current_score = 1
             elif response_2.corr == 0:
                 feedback_txt = 'Incorrect -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
         movie_2.stop()
@@ -2406,6 +2409,7 @@ for thisTrial in trials:
         # --- Prepare to start Routine "feedback_2" ---
         continueRoutine = True
         # update component parameters for each repeat
+        text_6.setColor(feedback_col, colorSpace='rgb')
         text_6.setText(feedback_txt)
         # Run 'Begin Routine' code from code_16
         if flag_5743 == False:
@@ -2533,7 +2537,7 @@ for thisTrial in trials:
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code_12
-        if total_score > 149:
+        if total_score > 99:
             trials.finished = True
             break
         
@@ -3125,20 +3129,21 @@ for thisTrial in trials:
         if flag_5446 == True:
             if key_skip_3.keys=="space":
                 feedback_txt = 'Skipped 0'
+                feedback_col = [1,1,1]
                 current_score = 0
             elif response_3.keys is None or len(response_3.keys) < 1:
                 feedback_txt = 'Too late -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
             elif response_3.corr == 1:
                 feedback_txt = 'Correct +1'
-                feedback_col = [1.000,1.000,1.000]
+                feedback_col = [1,1,1]
                 total_score += 1
                 current_score = 1
             elif response_3.corr == 0:
                 feedback_txt = 'Incorrect -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
         movie_3.stop()
@@ -3167,6 +3172,7 @@ for thisTrial in trials:
         # --- Prepare to start Routine "feedback_3" ---
         continueRoutine = True
         # update component parameters for each repeat
+        text_7.setColor(feedback_col, colorSpace='rgb')
         text_7.setText(feedback_txt)
         # Run 'Begin Routine' code from code_18
         if flag_5446 == False:
@@ -3272,35 +3278,35 @@ for thisTrial in trials:
         dataOut=['n','all_mean','all_std', 'all_raw'])
     
     # set up handler to look after randomisation of conditions etc
-    trials_5149 = data.TrialHandler(nReps=2.0, method='random', 
+    trials_5248 = data.TrialHandler(nReps=2.0, method='random', 
         extraInfo=expInfo, originPath=-1,
         trialList=data.importConditions("Rewa_Sequence_" + expInfo['Deadline'] + ".xlsx"),
-        seed=None, name='trials_5149')
-    thisExp.addLoop(trials_5149)  # add the loop to the experiment
-    thisTrial_5149 = trials_5149.trialList[0]  # so we can initialise stimuli with some values
-    # abbreviate parameter names if possible (e.g. rgb = thisTrial_5149.rgb)
-    if thisTrial_5149 != None:
-        for paramName in thisTrial_5149:
-            exec('{} = thisTrial_5149[paramName]'.format(paramName))
+        seed=None, name='trials_5248')
+    thisExp.addLoop(trials_5248)  # add the loop to the experiment
+    thisTrial_5248 = trials_5248.trialList[0]  # so we can initialise stimuli with some values
+    # abbreviate parameter names if possible (e.g. rgb = thisTrial_5248.rgb)
+    if thisTrial_5248 != None:
+        for paramName in thisTrial_5248:
+            exec('{} = thisTrial_5248[paramName]'.format(paramName))
     
-    for thisTrial_5149 in trials_5149:
-        currentLoop = trials_5149
-        # abbreviate parameter names if possible (e.g. rgb = thisTrial_5149.rgb)
-        if thisTrial_5149 != None:
-            for paramName in thisTrial_5149:
-                exec('{} = thisTrial_5149[paramName]'.format(paramName))
+    for thisTrial_5248 in trials_5248:
+        currentLoop = trials_5248
+        # abbreviate parameter names if possible (e.g. rgb = thisTrial_5248.rgb)
+        if thisTrial_5248 != None:
+            for paramName in thisTrial_5248:
+                exec('{} = thisTrial_5248[paramName]'.format(paramName))
         
         # --- Prepare to start Routine "Fixation_4" ---
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code_13
-        if total_score > 149:
+        if total_score > 99:
             trials.finished = True
             break
         
-        if flag_5149 == False:
+        if flag_5248 == False:
             continueRoutine = False
-            trials_5149.finished = True
+            trials_5248.finished = True
             break
         # keep track of which components have finished
         Fixation_4Components = [fix_5]
@@ -3390,7 +3396,7 @@ for thisTrial in trials:
         # update component parameters for each repeat
         image_4.setImage(screenshot)
         # Run 'Begin Routine' code from code_19
-        if flag_5149 == False:
+        if flag_5248 == False:
             continueRoutine = False
         # keep track of which components have finished
         screenshot_4Components = [image_4, circle_8, fix_8, Right_8, Left_8]
@@ -3591,7 +3597,7 @@ for thisTrial in trials:
         else:
             routineTimer.addTime(-1.000000)
         
-        # --- Prepare to start Routine "Dots_Show_5149" ---
+        # --- Prepare to start Routine "Dots_Show_5248" ---
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code_9
@@ -3600,16 +3606,16 @@ for thisTrial in trials:
         #correct_answer = current_trial['correct']
         #print('correct_answer',correct_answer)
         
-        if flag_5149 == False:
+        if flag_5248 == False:
             continueRoutine = False
             
         # Get the duration of each loop
         Dotsshowstart=timer.getTime()
         movie_4.setMovie(Countdown)
-        dots_49.setColor(color2, colorSpace='rgb')
-        dots_49.refreshDots()
-        dots_51.setColor(color1, colorSpace='rgb')
-        dots_51.refreshDots()
+        dots_48.setColor(color2, colorSpace='rgb')
+        dots_48.refreshDots()
+        dots_52.setColor(color1, colorSpace='rgb')
+        dots_52.refreshDots()
         response_4.keys = []
         response_4.rt = []
         _response_4_allKeys = []
@@ -3617,8 +3623,8 @@ for thisTrial in trials:
         key_skip_4.rt = []
         _key_skip_4_allKeys = []
         # keep track of which components have finished
-        Dots_Show_5149Components = [movie_4, circle_5, dots_49, dots_51, response_4, Left_5, Right_5, key_skip_4]
-        for thisComponent in Dots_Show_5149Components:
+        Dots_Show_5248Components = [movie_4, circle_5, dots_48, dots_52, response_4, Left_5, Right_5, key_skip_4]
+        for thisComponent in Dots_Show_5248Components:
             thisComponent.tStart = None
             thisComponent.tStop = None
             thisComponent.tStartRefresh = None
@@ -3630,7 +3636,7 @@ for thisTrial in trials:
         _timeToFirstFrame = win.getFutureFlipTime(clock="now")
         frameN = -1
         
-        # --- Run Routine "Dots_Show_5149" ---
+        # --- Run Routine "Dots_Show_5248" ---
         routineForceEnded = not continueRoutine
         while continueRoutine:
             # get current time
@@ -3694,39 +3700,39 @@ for thisTrial in trials:
                 # update params
                 pass
             
-            # *dots_49* updates
+            # *dots_48* updates
             
-            # if dots_49 is starting this frame...
-            if dots_49.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+            # if dots_48 is starting this frame...
+            if dots_48.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
                 # keep track of start time/frame for later
-                dots_49.frameNStart = frameN  # exact frame index
-                dots_49.tStart = t  # local t and not account for scr refresh
-                dots_49.tStartRefresh = tThisFlipGlobal  # on global time
-                win.timeOnFlip(dots_49, 'tStartRefresh')  # time at next scr refresh
+                dots_48.frameNStart = frameN  # exact frame index
+                dots_48.tStart = t  # local t and not account for scr refresh
+                dots_48.tStartRefresh = tThisFlipGlobal  # on global time
+                win.timeOnFlip(dots_48, 'tStartRefresh')  # time at next scr refresh
                 # update status
-                dots_49.status = STARTED
-                dots_49.setAutoDraw(True)
+                dots_48.status = STARTED
+                dots_48.setAutoDraw(True)
             
-            # if dots_49 is active this frame...
-            if dots_49.status == STARTED:
+            # if dots_48 is active this frame...
+            if dots_48.status == STARTED:
                 # update params
                 pass
             
-            # *dots_51* updates
+            # *dots_52* updates
             
-            # if dots_51 is starting this frame...
-            if dots_51.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
+            # if dots_52 is starting this frame...
+            if dots_52.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
                 # keep track of start time/frame for later
-                dots_51.frameNStart = frameN  # exact frame index
-                dots_51.tStart = t  # local t and not account for scr refresh
-                dots_51.tStartRefresh = tThisFlipGlobal  # on global time
-                win.timeOnFlip(dots_51, 'tStartRefresh')  # time at next scr refresh
+                dots_52.frameNStart = frameN  # exact frame index
+                dots_52.tStart = t  # local t and not account for scr refresh
+                dots_52.tStartRefresh = tThisFlipGlobal  # on global time
+                win.timeOnFlip(dots_52, 'tStartRefresh')  # time at next scr refresh
                 # update status
-                dots_51.status = STARTED
-                dots_51.setAutoDraw(True)
+                dots_52.status = STARTED
+                dots_52.setAutoDraw(True)
             
-            # if dots_51 is active this frame...
-            if dots_51.status == STARTED:
+            # if dots_52 is active this frame...
+            if dots_52.status == STARTED:
                 # update params
                 pass
             
@@ -3828,7 +3834,7 @@ for thisTrial in trials:
                 routineForceEnded = True
                 break
             continueRoutine = False  # will revert to True if at least one component still running
-            for thisComponent in Dots_Show_5149Components:
+            for thisComponent in Dots_Show_5248Components:
                 if hasattr(thisComponent, "status") and thisComponent.status != FINISHED:
                     continueRoutine = True
                     break  # at least one component has not yet finished
@@ -3837,8 +3843,8 @@ for thisTrial in trials:
             if continueRoutine:  # don't flip if this routine is over or we'll get a blank screen
                 win.flip()
         
-        # --- Ending Routine "Dots_Show_5149" ---
-        for thisComponent in Dots_Show_5149Components:
+        # --- Ending Routine "Dots_Show_5248" ---
+        for thisComponent in Dots_Show_5248Components:
             if hasattr(thisComponent, "setAutoDraw"):
                 thisComponent.setAutoDraw(False)
         # Run 'End Routine' code from code_9
@@ -3854,23 +3860,24 @@ for thisTrial in trials:
         logged = 0
         
         # For Feedback Page
-        if flag_5149 == True:
+        if flag_5248 == True:
             if key_skip_4.keys=="space":
                 feedback_txt = 'Skipped 0'
+                feedback_col = [1,1,1]
                 current_score = 0
             elif response_4.keys is None or len(response_4.keys) < 1:
                 feedback_txt = 'Too late -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
             elif response_4.corr == 1:
                 feedback_txt = 'Correct +1'
-                feedback_col = [1.000,1.000,1.000]
+                feedback_col = [1,1,1]
                 total_score += 1
                 current_score = 1
             elif response_4.corr == 0:
                 feedback_txt = 'Incorrect -2'
-                feedback_col = [0.404,-1.000,-1.000]
+                feedback_col = [1.0000, -1.0000, -1.0000]
                 total_score -= 2
                 current_score = -2
         
@@ -3883,26 +3890,27 @@ for thisTrial in trials:
                response_4.corr = 1;  # correct non-response
             else:
                response_4.corr = 0;  # failed to respond (incorrectly)
-        # store data for trials_5149 (TrialHandler)
-        trials_5149.addData('response_4.keys',response_4.keys)
-        trials_5149.addData('response_4.corr', response_4.corr)
+        # store data for trials_5248 (TrialHandler)
+        trials_5248.addData('response_4.keys',response_4.keys)
+        trials_5248.addData('response_4.corr', response_4.corr)
         if response_4.keys != None:  # we had a response
-            trials_5149.addData('response_4.rt', response_4.rt)
+            trials_5248.addData('response_4.rt', response_4.rt)
         # check responses
         if key_skip_4.keys in ['', [], None]:  # No response was made
             key_skip_4.keys = None
-        trials_5149.addData('key_skip_4.keys',key_skip_4.keys)
+        trials_5248.addData('key_skip_4.keys',key_skip_4.keys)
         if key_skip_4.keys != None:  # we had a response
-            trials_5149.addData('key_skip_4.rt', key_skip_4.rt)
-        # the Routine "Dots_Show_5149" was not non-slip safe, so reset the non-slip timer
+            trials_5248.addData('key_skip_4.rt', key_skip_4.rt)
+        # the Routine "Dots_Show_5248" was not non-slip safe, so reset the non-slip timer
         routineTimer.reset()
         
         # --- Prepare to start Routine "feedback_4" ---
         continueRoutine = True
         # update component parameters for each repeat
+        text_8.setColor(feedback_col, colorSpace='rgb')
         text_8.setText(feedback_txt)
         # Run 'Begin Routine' code from code_20
-        if flag_5149 == False:
+        if flag_5248 == False:
             continueRoutine = False
         # keep track of which components have finished
         feedback_4Components = [text_8]
@@ -3983,7 +3991,7 @@ for thisTrial in trials:
                 thisComponent.setAutoDraw(False)
         # Run 'End Routine' code from code_20
         thisExp.addData('total_score', total_score)
-        thisExp.addData('Dot_ratio', '51:49')
+        thisExp.addData('Dot_ratio', '52:48')
         thisExp.addData('current_score', current_score)
         # using non-slip timing so subtract the expected duration of this Routine (unless ended on request)
         if routineForceEnded:
@@ -3992,15 +4000,15 @@ for thisTrial in trials:
             routineTimer.addTime(-1.000000)
         thisExp.nextEntry()
         
-    # completed 2.0 repeats of 'trials_5149'
+    # completed 2.0 repeats of 'trials_5248'
     
     # get names of stimulus parameters
-    if trials_5149.trialList in ([], [None], None):
+    if trials_5248.trialList in ([], [None], None):
         params = []
     else:
-        params = trials_5149.trialList[0].keys()
+        params = trials_5248.trialList[0].keys()
     # save data for this loop
-    trials_5149.saveAsText(filename + 'trials_5149.csv', delim=',',
+    trials_5248.saveAsText(filename + 'trials_5248.csv', delim=',',
         stimOut=params,
         dataOut=['n','all_mean','all_std', 'all_raw'])
     

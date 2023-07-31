@@ -1,0 +1,225 @@
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9298113584518433,0.820258378982544, 1.0393643379211426,0.15493130936386434,2.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',1.2689015865325928,1.4222838878631592, 1.1155191659927368,0.21691541506339723,0.0, 4.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.9614912271499634,1.0547516345977783, 0.8682308197021484,0.1318901330451407,3.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'left', 'right',0.7181280851364136,0.8159251809120178, 0.6203309893608093,0.13830597920656007,1.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.7998534440994263,0.7978017926216125, 0.80190509557724,0.002901473345186967,3.0, 4.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',1.1529277563095093,1.1172754764556885, 1.18858003616333,0.050419937698794444,2.0, 7.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.9159263372421265,1.0852458477020264, 0.7466068863868713,0.23945390591991877,0.0, 5.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.9450594186782837,0.8139128088951111, 1.0762059688568115,0.18546927206777103,1.0, 6.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.8935737609863281,0.7919964790344238, 0.9951511025428772,0.14365201191223356,1.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',0.8183867931365967,0.9416648745536804, 0.6951087117195129,0.17434153468337446,2.0, 4.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.755010724067688,0.8161755800247192, 0.693845808506012,0.08650021098188918,0.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.955737829208374,0.8966482281684875, 1.0148274898529053,0.08356535733268193,3.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.8722367286682129,0.6750953793525696, 1.069378137588501,0.27880001205356636,2.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',1.0009078979492188,1.0028008222579956, 0.9990149140357971,0.0026770413771982325,3.0, 4.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.790271520614624,0.7900742292404175, 0.7904688119888306,0.0002790121371421185,0.0, 7.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',1.0098295211791992,1.1659163236618042, 0.8537427186965942,0.22074007297835047,1.0, 6.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9569798111915588,1.245072841644287, 0.6688867807388306,0.40742507089141344,3.0, 7.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9278295040130615,1.1048309803009033, 0.7508280873298645,0.2503178461794807,0.0, 5.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.6100915670394897,0.6430627107620239, 0.5771204233169556,0.04662823861936038,2.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.7052130699157715,0.7460451126098633, 0.6643810868263245,0.05774518641054874,1.0, 4.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.0,0.0, 0.0,0.0,'left', 'left',0.669248640537262,0.726367175579071, 0.6121301054954529,0.08077780691900929,0.0, 4.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.713774561882019,0.7556276917457581, 0.6719214916229248,0.059189221734228616,2.0, 6.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.8496352434158325,0.6853188276290894, 1.0139516592025757,0.23237850372614874,3.0, 5.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.6373785734176636,0.6936960220336914, 0.5810611248016357,0.07964489963103645,1.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9337514638900757,1.16830575466156, 0.6991971731185913,0.3317098591218357,0.0, 7.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.9296191930770874,1.0024739503860474, 0.8567643761634827,0.10303222801658868,2.0, 5.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'left', 'right',0.9795610904693604,0.8183484077453613, 1.1407737731933594,0.2279891623348302,3.0, 4.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.6657154560089111,0.6830887794494629, 0.6483420729637146,0.024569631780007362,1.0, 6.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',0.6506613492965698,0.6069700717926025, 0.6943526268005371,0.06178879720351705,1.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.0,0.0, 0.0,0.0,'left', 'left',0.8667739629745483,0.9598633050918579, 0.7736846804618835,0.1316481679878464,0.0, 7.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.9181930422782898,0.7658045291900635, 1.0705815553665161,0.21550990195923958,3.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'left', 'right',0.8582192659378052,0.8661068081855774, 0.850331723690033,0.011154669220590238,2.0, 4.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9696953296661377,1.019717812538147, 0.9196729063987732,0.07074243155433542,1.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.0,0.0, 0.0,0.0,'left', 'left',0.835199236869812,0.752051591873169, 0.9183468222618103,0.11758848508679509,2.0, 4.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.7039101123809814,0.7339982986450195, 0.6738219857215881,0.04255107893498289,0.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'left', 'right',0.8270010352134705,0.8163164854049683, 0.8376855850219727,0.015110235247034663,3.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',1.0188288688659668,1.1088926792144775, 0.9287651181221008,0.12736941992702067,3.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.7091078162193298,0.6693006157875061, 0.7489150166511536,0.05629588273078925,0.0, 6.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.9458450078964233,0.8678537011146545, 1.0238362550735474,0.11029632165113773,1.0, 4.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.8785303831100464,0.9199265241622925, 0.8371343016624451,0.058542941959162736,2.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.8011921644210815,0.8014919757843018, 0.8008924126625061,0.0004239551512660651,1.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',0.7562851905822754,0.7248671054840088, 0.7877032160758972,0.044431839902932146,2.0, 6.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.8707849979400635,0.6401740908622742, 1.101395845413208,0.3261330302737254,3.0, 4.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'left', 'right',0.7183520793914795,0.7049064040184021, 0.7317976951599121,0.019015014321070174,0.0, 7.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.8569422364234924,0.6418917179107666, 1.0719927549362183,0.30412735987606326,2.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',0.8560689687728882,0.7734581828117371, 0.9386798143386841,0.11682933605141692,3.0, 7.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.7493203282356262,0.8258088827133179, 0.6728317737579346,0.10817115110866486,0.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.7719758749008179,0.7850313186645508, 0.7589204907417297,0.018463143486669924,1.0, 4.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.9127587080001831,1.1153823137283325, 0.7101351022720337,0.28655305127768765,0.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.7168264389038086,0.7785264849662781, 0.6551263928413391,0.08725704194058903,1.0, 4.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.8212729692459106,0.7555148005485535, 0.887031078338623,0.09299605186178149,2.0, 7.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.797467827796936,0.8686915040016174, 0.7262442111968994,0.10072544670389062,3.0, 6.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.8832698464393616,0.9363572001457214, 0.8301824927330017,0.07507685560203171,0.0, 4.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'right', 'right',0.713904619216919,0.7933974266052246, 0.6344118714332581,0.11241976417281345,3.0, 7.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.7198846936225891,0.77431720495224, 0.6654521822929382,0.07697919575641943,1.0, 5.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.8365709781646729,0.8217799067497253, 0.8513621091842651,0.020917775943938746,2.0, 6.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,1.0, 0.0,0.7071067811865476,'right', 'left',0.8677871823310852,0.644689679145813, 1.0908846855163574,0.31550751473618677,3.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',0.7017718553543091,0.7009044289588928, 0.7026392817497253,0.0012267261727580817,0.0, 7.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'right', 'left',0.9362131357192993,1.0326275825500488, 0.839798629283905,0.13635066046360067,2.0, 6.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',0.777815043926239,0.8680701851844788, 0.6875599026679993,0.12764004484130215,1.0, 4.0
+
+extraInfo
+participant,Tokka
+Task,1 - without skip
+Dot Ratio,"54:46, 51:49"
+Deadline,"2.5s, 2.0s"
+date,2023-07-20_14h33.55.870
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,59.99692815724245

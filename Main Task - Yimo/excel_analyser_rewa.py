@@ -72,7 +72,8 @@ def analyze_excel_data(name):
     replacement_dict = {
             'Countdown_2.5s.mp4': 2.5,
             'Countdown_2s.mp4': 2,
-            'Countdown_1.5s.mp4': 1.5
+            'Countdown_1.5s.mp4': 1.5,
+            'Countdown_1s.mp4': 1
     }
 
     # Replace values in the 'Countdown' column
@@ -195,7 +196,9 @@ def analyze_excel_data(name):
     replacement_dict = {
             'Countdown_2.5s.mp4': 2.5,
             'Countdown_2s.mp4': 2,
-            'Countdown_1.5s.mp4': 1.5
+            'Countdown_1.5s.mp4': 1.5,
+            'Countdown_1s.mp4': 1
+
     }
 
     # Replace values in the 'Countdown' column
@@ -267,7 +270,10 @@ def analyze_excel_data(name):
     except:
         print()
     # df_skip = df_skip.drop(['comb.corr'], axis=1)
-    df_skip.loc[(df_skip['response_RT'].isna()), 'corr'] = -1
+    try:
+        df_skip.loc[(df_skip['response_RT'].isna()), 'corr'] = -1
+    except:
+        print()
 
 
     # Optional: Reset the index if desired
@@ -281,7 +287,7 @@ def analyze_excel_data(name):
     df_data2 = pd.read_csv('output2.csv')
     df_data_concat = pd.concat([df_data, df_data2])
     df_data_concat.reset_index(drop=True, inplace=True)
-    add_row = [df_data.loc[1, 'participant'], df_data.loc[1, 'Dot Ratio'], df_data.loc[1, 'Deadline'],df_data_concat.loc[:, 'VideoshowRT'].mean(),df_data.loc[:, 'VideoshowRT'].mean(),df_data.query("corr == 1")['VideoshowRT'].mean(),df_data.query("corr == 0")['VideoshowRT'].mean(),df_data2.loc[:, 'VideoshowRT'].mean(), df_data2.query("key_skip != 'space'")['VideoshowRT'].mean(),df_data2.query("corr == 1")['VideoshowRT'].mean(),df_data2.query("corr == 0")['VideoshowRT'].mean(),df_data['total_score'].iloc[-1], df_data2['total_score'].iloc[-1], len(df_data),len(df_data2), len(df_data.query("corr == 1"))/len(df_data) , len(df_data2.query("corr == 1"))/len(df_data2), len(df_data.query("`corr` == -1")), len(df_data2.query("`corr` == -1")) ,len(df_data.query("`response_keys` == 'None'")), len(df_data2.query("`response_keys` == 'None' and `key_skip` == 'None'")), len(df_data2.query("`key_skip` != 'None'")),df_data['total_score'].iloc[-1]/(len(df_data)), df_data2['total_score'].iloc[-1]/(len(df_data2)), df_data2['total_score'].iloc[-1]/(len(df_data2.query("`key_skip` == 'None'")))]
+    add_row = [df_data.loc[1, 'participant'], df_data.loc[1, 'Dot Ratio'], df_data.loc[1, 'Deadline'],df_data_concat.loc[:, 'VideoshowRT'].mean(),df_data.loc[:, 'VideoshowRT'].mean(),df_data.query("corr == 1")['VideoshowRT'].mean(),df_data.query("corr == 0")['VideoshowRT'].mean(),df_data2.loc[:, 'VideoshowRT'].mean(), df_data2.query("key_skip != 'space'")['VideoshowRT'].mean(),df_data2.query("corr == 1")['VideoshowRT'].mean(),df_data2.query("corr == 0")['VideoshowRT'].mean(),df_data['total_score'].iloc[-1], df_data2['total_score'].iloc[-1], len(df_data),len(df_data2), len(df_data.query("corr == 1"))/len(df_data) , len(df_data2.query("corr == 1"))/len(df_data2), len(df_data2.query("corr == 1"))/len(df_data2.query("key_skip == 'None'")), len(df_data.query("`corr` == -1")), len(df_data2.query("`corr` == -1")) ,len(df_data.query("`response_keys` == 'None'")), len(df_data2.query("`response_keys` == 'None' and `key_skip` == 'None'")), len(df_data2.query("`key_skip` != 'None'")),df_data['total_score'].iloc[-1]/(len(df_data)), df_data2['total_score'].iloc[-1]/(len(df_data2)), df_data2['total_score'].iloc[-1]/(len(df_data2.query("`key_skip` == 'None'")))]
     # add_row =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     []
     df_total.loc[len(df_total)] = add_row
 

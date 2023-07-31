@@ -8,7 +8,7 @@ from excel_analyser_rewa import *
 
 def create_display_file():
     root = tk.Tk()
-    root.title("Pre-exp result")
+    root.title("Main task result")
     root.geometry("800x600")  # Set the fixed width and height of the window
 
     # Create a label and an entry widget for ID input
@@ -30,8 +30,8 @@ def create_display_file():
                 text_widget = ScrolledText(root, width=80, height=30, font=("Courier New", 11))
                 text_widget.pack()
 
-                # Insert DataFrame content into the scrolled text widget
-                text_widget.insert(tk.END, df.to_string())
+                # Insert the fixed sentence instead of DataFrame content
+                text_widget.insert(tk.END, "Data transferred to CSV file")
 
                 def on_escape_key(event):
                     root.destroy()

@@ -1,0 +1,15 @@
+﻿Duration,Countdown,color1,color2,correct,screenshot,n,key_skip_3.keys_raw,,response_3.corr_mean,response_3.corr_raw,,response_3.corr_std,response_3.keys_raw,,response_3.rt_mean,response_3.rt_raw,,response_3.rt_std,order,
+2.5,Countdown_2.5s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2.5s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',1.1378464698791504,1.390277624130249, 0.8854153156280518,0.3569915619073985,2.0, 5.0
+2,Countdown_2s.mp4,red,"[-1.0, 1.0, -1.0]",right,Countdown_2s.jpg,2.0,, ,0.5,0.0, 1.0,0.7071067811865476,'left', 'right',1.4839272499084473,1.4803458452224731, 1.487508773803711,0.00506495537364961,0.0, 6.0
+2.5,Countdown_2.5s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2.5s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',1.4463670253753662,1.2345348596572876, 1.6581993103027344,0.2995760059990807,1.0, 7.0
+2,Countdown_2s.mp4,"[-1.0, 1.0, -1.0]",red,left,Countdown_2s.jpg,2.0,, ,1.0,1.0, 1.0,0.0,'left', 'left',1.3380134105682373,1.3651249408721924, 1.3109017610549927,0.038341578146332114,3.0, 4.0
+
+extraInfo
+participant,
+Task,1 - without skip
+Dot Ratio,"54:46, 52:48"
+Deadline,"2.5s, 2.0s"
+date,2023-07-21_15h32.22.748
+expName,Rewa's Exp
+psychopyVersion,2023.1.2
+frameRate,60.0118343365149
